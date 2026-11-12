@@ -1,0 +1,10 @@
+{
+  "name": "Le Tir Groupé",
+  "short_name": "Tir Groupé",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F9FB",
+  "theme_color": "#1C2230",
+  "lang": "fr",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
